@@ -1,5 +1,5 @@
-[![](https://github-readme-stats.vercel.app/api?username=riversun&count_private=true&show_icons=true&&hide=prs,issues,contribs&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=riversun&layout=compact&hide=css,scss,batchfile)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=riversun&count_private=true&show_icons=true&&hide=prs,issues,contribs&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=riversun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
