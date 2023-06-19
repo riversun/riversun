@@ -1,5 +1,5 @@
 [![](https://readme-stats-riversun.vercel.app/api?username=riversun&count_private=true&show_icons=true&&hide=prs,issues,contribs&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://github-readme-stats-riversun.vercel.app/api/top-langs/?username=riversun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://readme-stats-riversun.vercel.app/api/top-langs/?username=riversun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
